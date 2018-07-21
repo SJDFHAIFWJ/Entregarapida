@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+    background-color: bisque;
+}
+
+h1{
+    color: black;
+}
+    
+nav{
+    font-family: sans-serif;
+    height:50px ;
+    background-color: darkgray;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+#botoes{
+    position:absolute;
+    right: 0;
+    top: 0;
+    
+}
+header{
+    text-align: center;
+}
+.linkdecima{
+    color: black;
+    text-decoration: navajowhite;
+    font-size: 16pt;
+    text-transform: uppercase;
+}
+button{
+    background-color: linen;
+    border: 1px solid black;
+}   
+section{
+    margin:30px auto;
+    display: flex;
+    width: 60vw; 
+}
+p{
+    display: inline-block;
+}
+p{
+    margin-left: 20px; 
+}
+    #gato{
+border-radius: 10%;
+
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+#gato3{
+    border-radius: 10%;
+}
+    
